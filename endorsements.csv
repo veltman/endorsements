@@ -62,8 +62,8 @@ Arizona Republic,2016,Clinton,http://www.azcentral.com/story/opinion/editorial/2
 Arkansas Democrat-Gazette,1980,Unknown/Carter,"Editor & Publisher. Volume 113, Issue 44. Nov 1, 1980. pp. 9, 11, 13.",,"Arkansas Gazette endorsed Carter (listed as ""Little Rock Arkansas Gazette"")"
 Arkansas Democrat-Gazette,1984,Reagan/Mondale,"https://news.google.com/newspapers?nid=1817&dat=19841028&id=-jMdAAAAIBAJ&sjid=h6UEAAAAIBAJ&pg=6632,7208639","Associated Press. Nov 4, 1984.","Arkansas Democrat endorsed Reagan, Arkansas Gazette endorsed Mondale"
 Arkansas Democrat-Gazette,1988,Bush/Dukakis,"https://news.google.com/newspapers?nid=1980&dat=19881102&id=WH8iAAAAIBAJ&sjid=G6oFAAAAIBAJ&pg=1227,1309848","Editor & Publisher. Volume 121, Issue 44. Oct 29, 1988. pp. 10-11.","Arkansas Democrat endorsed Bush, Arkansas Gazette endorsed Dukakis"
-Arkansas Democrat-Gazette,1992,None,http://www.nytimes.com/1992/10/29/us/1992-campaign-campaign-trail-what-also-rans-most-act-like-good-sports.html,,"Published a ""non-endorsement"" of Clinton"
-Arkansas Democrat-Gazette,1996,None,http://www.cnn.com/ALLPOLITICS/1996/news/9611/03/1dole.clinton.wraps/,,"Published a ""non-endorsement"" of Clinton"
+Arkansas Democrat-Gazette,1992,None,http://www.nytimes.com/1992/10/29/us/1992-campaign-campaign-trail-what-also-rans-most-act-like-good-sports.html,,"Published a ""non-endorsement"" of Clinton; text says they have a tradition of not endorsing presidential candidates but other sources seem to contradict that, they may only be referring to the joint paper"
+Arkansas Democrat-Gazette,1996,None,http://www.cnn.com/ALLPOLITICS/1996/news/9611/03/1dole.clinton.wraps/,,"Published a ""non-endorsement"" of Clinton; text says they have a tradition of not endorsing presidential candidates but other sources seem to contradict that, they may only be referring to the joint paper"
 Arkansas Democrat-Gazette,2000,Bush,https://www.gwu.edu/~action/natendorse5.html,,
 Arkansas Democrat-Gazette,2004,Bush,http://www.presidency.ucsb.edu/data/2008_newspaper_endorsements.php,,
 Arkansas Democrat-Gazette,2008,McCain,http://www.arkansasonline.com/news/2008/nov/02/editorials-john-mccain-20081102/,,
@@ -89,7 +89,7 @@ Atlanta Journal-Constitution,2004,Kerry,http://www.presidency.ucsb.edu/data/2008
 Atlanta Journal-Constitution,2008,Obama,http://www.presidency.ucsb.edu/data/2012_newspaper_endorsements.php,,
 Atlanta Journal-Constitution,2012,None,http://www.presidency.ucsb.edu/data/2012_newspaper_endorsements.php,,
 Atlanta Journal-Constitution,2016,Unknown,,,
-Austin American-Statesman,1980,Anderson,https://books.google.com/books?id=kXKFfYMjiloC&pg=PA403&lpg=PA403&dq=1980+reagan+carter+newspaper+endorsements&source=bl&ots=JyVhVWoHHP&sig=IOlFnSEzEjLrgTbsYzw6Lot9_yY&hl=en&sa=X&ved=0ahUKEwjm5oiV_q3PAhUo54MKHdLuC_o4ChDoAQhKMAk#v=onepage&q=1980%20reagan%20carter%20newspaper%20endorsements&f=false,,
+Austin American-Statesman,1980,Anderson,https://books.google.com/books?id=kXKFfYMjiloC&lpg=PA403&pg=PA403#v=onepage&q&f=false,,
 Austin American-Statesman,1984,Mondale,"Associated Press. Nov 4, 1984.",,
 Austin American-Statesman,1988,Unknown,,,
 Austin American-Statesman,1992,Clinton,"""Texas newspaper endorsements."" Austin American-Statesman. Oct 30, 1992. p. A16.",,
@@ -391,7 +391,7 @@ Greensboro News & Record,2004,Kerry,,,
 Greensboro News & Record,2008,None,,,
 Greensboro News & Record,2012,None,,,
 Greensboro News & Record,2016,Unknown,,,
-Hartford Courant,1980,Anderson,https://books.google.com/books?id=kXKFfYMjiloC&pg=PA403&lpg=PA403&dq=1980+reagan+carter+newspaper+endorsements&source=bl&ots=JyVhVWoHHP&sig=IOlFnSEzEjLrgTbsYzw6Lot9_yY&hl=en&sa=X&ved=0ahUKEwjm5oiV_q3PAhUo54MKHdLuC_o4ChDoAQhKMAk#v=onepage&q=1980%20reagan%20carter%20newspaper%20endorsements&f=false,,
+Hartford Courant,1980,Anderson,https://books.google.com/books?id=kXKFfYMjiloC&lpg=PA403&pg=PA403#v=onepage&q&f=false,,
 Hartford Courant,1984,Reagan,https://www.washingtonpost.com/archive/politics/1984/10/29/dailies-make-endorsements/e4bcf55f-c765-4606-b65c-f928925d6eb7/,,
 Hartford Courant,1988,Bush,http://www.upi.com/Archives/1988/11/01/Lamenting-a-presidential-campaign-lacking-in-issues-and-calling/7002594363600/,,
 Hartford Courant,1992,Clinton,http://www.courant.com/opinion/editorials/hc-clintonendorse1996-story.html,,
@@ -843,7 +843,7 @@ San Francisco Chronicle,2004,Kerry,http://www.presidency.ucsb.edu/data/2008_news
 San Francisco Chronicle,2008,Obama,http://www.sfgate.com/opinion/article/Why-Obama-is-the-choice-3189736.php,,
 San Francisco Chronicle,2012,Obama,http://www.sfgate.com/opinion/editorials/article/Chronicle-recommends-Re-elect-Obama-3985242.php,,
 San Francisco Chronicle,2016,Clinton,http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Hillary-Clinton-for-9123797.php,,
-San Jose Mercury News,1980,Anderson,https://books.google.com/books?id=kXKFfYMjiloC&pg=PA403&lpg=PA403&dq=1980+reagan+carter+newspaper+endorsements&source=bl&ots=JyVhVWoHHP&sig=IOlFnSEzEjLrgTbsYzw6Lot9_yY&hl=en&sa=X&ved=0ahUKEwjm5oiV_q3PAhUo54MKHdLuC_o4ChDoAQhKMAk#v=onepage&q=1980%20reagan%20carter%20newspaper%20endorsements&f=false,,
+San Jose Mercury News,1980,Anderson,https://books.google.com/books?id=kXKFfYMjiloC&lpg=PA403&pg=PA403#v=onepage&q&f=false,,
 San Jose Mercury News,1984,None,"Email from Leigh Poitinger, Mercury News Research Director",,
 San Jose Mercury News,1988,None,"Email from Leigh Poitinger, Mercury News Research Director",,
 San Jose Mercury News,1992,Clinton,"Editor & Publisher. Volume 125, Issue 43. Oct 24, 1992. pp. 11, 44.",,
