@@ -1,7 +1,5 @@
 # Newspaper presidential endorsements, 1980-
 
-*Last updated: Oct 5, 2016*
-
 Data on who the top ~100 US newspapers by circulation endorsed for president in each election from 1980 through 2016. Additions/corrections welcome.
 
 The data is provided as a CSV file with the following columns:
