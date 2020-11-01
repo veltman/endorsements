@@ -2,7 +2,7 @@
 
 See also: [http://noahveltman.com/endorsements/](http://noahveltman.com/endorsements/)
 
-Data on who the top ~100 US newspapers by circulation endorsed for president in each election from 1980 through 2016. Additions/corrections welcome.
+Data on who the top ~100 US newspapers by circulation endorsed for president in each election from 1980 through 2020. Additions/corrections welcome.
 
 The data is provided as a CSV file with the following columns:
 
@@ -84,13 +84,13 @@ Depending on how you figure it, some other papers that might make the top 100 li
 
 ### Notes on "anti-endorsements"
 
-I've marked the most recent 2016 [USA Today](http://www.usatoday.com/story/opinion/2016/09/29/dont-vote-for-donald-trump-editorial-board-editorials-debates/91295020/) and [Washington Post](https://www.washingtonpost.com/opinions/donald-trump-is-a-unique-threat-to-american-democracy/2016/07/22/a6d823cc-4f4f-11e6-aa14-e0c1087f7583_story.html?utm_term=.e3665ffa67e8) editorials as "anti-endorsements" (`Not Trump`). There are at least two other similar cases, but I haven't marked them as such because they seem different in important ways:
+I've marked three editorials ([2016 USA Today](http://www.usatoday.com/story/opinion/2016/09/29/dont-vote-for-donald-trump-editorial-board-editorials-debates/91295020/), [2016 Washington Post](https://www.washingtonpost.com/opinions/donald-trump-is-a-unique-threat-to-american-democracy/2016/07/22/a6d823cc-4f4f-11e6-aa14-e0c1087f7583_story.html?utm_term=.e3665ffa67e8), [2020 New York Daily News](https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-days-reasons-20200727-3lzhzfiasraepbjpned2nbjpxq-story.html))  as "anti-endorsements" (`Not Trump`). There are at least two other similar cases, but I haven't marked them as such because they seem different in important ways:
 
 * On August 2, 1992, the *Orange County Register* published an editorial entitled "Stand down, Mr. Bush," advising Bush not to seek reelection, but although they refer to it as a "disendorsement," it reads more as general criticism, not as advice to voters.
 * On October 28, 1992 and November 3, 1996, the *Arkansas Democrat-Gazette* published a "non-endorsement" of Bill Clinton, but it also reads more as general criticism.
 
 ### Other notes
 
-About 4% of the entries are still marked as "Unknown". In some of those cases, the probable endorsement is listed in the `notes` field but I haven't been able to confirm it.
+A handful of entries are still marked as "Unknown". In some of those cases, the probable endorsement is listed in the `notes` field but I haven't been able to confirm it.
 
 The sources for these ~100 papers also include the endorsement information for literally hundreds of other papers for various years, but I had to draw the line somewhere. If you're looking for endorsement information for a specific paper that's not listed here, there's a good chance I have it on file somewhere at this point, so feel free to contact me for assistance.
