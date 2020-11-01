@@ -50,6 +50,7 @@ Here's a non-exhaustive list of mergers and changes relevant to the data:
 * *St. Paul Pioneer Press*: *Pioneer* and *Dispatch* merged in 1985
 * *Jackson Clarion-Ledger* - absorbed *Daily News* in 1982
 * *Chattanooga Times Free Press* - *News-Free Press* and *Times* began merging in the 1980s, but maintain separate editorial boards (the only paper on this list that _still_ has two editorial boards post-merger, as far as I know)
+* *Toledo Blade* and *Pittsburgh Post-Gazette* - editorial pages were combined in 2018
 
 I've also done my best to use the current canonical name for each paper (sometimes including the city even if it's not officially part of the name, for clarity).  If an endorsement occurred when the paper used a different name, I've tried to note that in the `notes` column.
 
